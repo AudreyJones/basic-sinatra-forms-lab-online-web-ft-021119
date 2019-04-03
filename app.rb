@@ -9,6 +9,4 @@ class App < Sinatra::Base
     binding.pry
     erb :team
   end
-
-
 end
